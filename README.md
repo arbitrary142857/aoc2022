@@ -1,2 +1,2 @@
 # aoc2022
-how does github work
+how does this work
