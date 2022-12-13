@@ -20,8 +20,8 @@ for j in range(150):
   
   while right == 0 and wrong == 0:
 
-    open1 = 0 # only for the "X" "X" case
-    open2 = 0 # only for the "X" "X" case
+    open1 = 0
+    open2 = 0
     
     num1 = "X"
     num2 = "X"
