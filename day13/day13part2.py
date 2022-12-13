@@ -17,7 +17,7 @@ for j in range(450):
   
   runningOpen1 = 0
 
-  open1 = 0 # only for the "X" "X" case
+  open1 = 0
   
   num1 = "X"
 
