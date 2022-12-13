@@ -56,11 +56,9 @@ for j in range(150):
     if num1 == "X" and num2 == "X":
       if open1 > open2:
         wrong = 1
-        print("THIS ONE WRONG" + str(j + 1))
         continue
       if open1 < open2:
         right = 1
-        print("THIS ONE RIGHT" + str(j + 1))
         continue
   
     elif num1 == "X":
@@ -93,6 +91,5 @@ for j in range(150):
   input()
   if right == 1:
     total += j + 1
-    print(j + 1)
 
 print(total)
